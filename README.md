@@ -1,2 +1,1 @@
-# Gestionarea_Cheltuielilor
- Aplicație simplă pentru gestionarea cheltuielilor personale în Python
+ Utilizatorul dispune de un meniu de gestionare al cheltuielilor cu o varietate de optiuni.
